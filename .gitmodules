@@ -1,0 +1,6 @@
+[submodule "pack/colors/opt/vim-monokai"]
+	path = pack/colors/opt/vim-monokai
+	url = https://github.com/crusoexia/vim-monokai.git
+[submodule "pack/plugins/start/lightline"]
+	path = pack/plugins/start/lightline
+	url = https://github.com/itchyny/lightline.vim
